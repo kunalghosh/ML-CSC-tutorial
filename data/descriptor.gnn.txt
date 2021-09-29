@@ -1,4 +1,0 @@
-Graph fingerprint:
-
-Each atom is described by 8 numbers between -1 and 1.
-This fingerprint is calculated with the Graph Neural Network developed by NanoLayers.
