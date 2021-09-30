@@ -14,6 +14,7 @@ slides at: https://docs.google.com/presentation/d/1iGh3xA6eBwEHR-mBcrsoVkPAdaSf8
 # Supervised ML Methods
   ## Kernel Ridge Regression
    1. [KRR - TotalEnergy.ipynb](https://colab.research.google.com/github/kunalghosh/ML-CSC-tutorial/blob/master/KRR%20-%20TotalEnergy.ipynb)
+   2. [KRR - HOMO.ipynb](https://colab.research.google.com/github/kunalghosh/ML-CSC-tutorial/blob/master/krr_homo.ipynb)
 
   ## Neural Networks
    1. [NeuralNetwork - Intro.ipynb](https://colab.research.google.com/github/kunalghosh/ML-CSC-tutorial/blob/master/NeuralNetwork%20-%20Intro.ipynb)
